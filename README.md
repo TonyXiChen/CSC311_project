@@ -24,6 +24,7 @@ The model uses the question as the query and the student and question embeddings
 - Python 3.x
 - PyTorch
 - NumPy
+- Transformers
 
 ## Setup
 
